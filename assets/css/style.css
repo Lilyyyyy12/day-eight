@@ -1,0 +1,34 @@
+.heading{
+    color: white;
+    background-color: black;
+}
+.details{
+    color: white;
+    background-color: blue;
+}
+.concentration{
+    color: white;
+    background-color: blue;
+}
+.heading, .details, .concentration{
+    text-align: center;
+}
+.concentration{
+    list-style: none;
+}
+
+.about{
+    color: red;
+    background-color: black;
+}
+.skills{
+    color: blue;
+    background-color: black;
+}
+.specialities{
+    color: black;
+    background-color: white;
+}
+.heading, .skills, .specialities{
+    text-align: center;
+}
